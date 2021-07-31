@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drew
+- 👋 Hi, I’m Drew
 - 👀 I’m interested in design and web3.0
 - 📫 How to reach me ✨ twitter.com/fwerd_ ✨  
 
