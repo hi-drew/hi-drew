@@ -1,6 +1,5 @@
 - 👋   Hi, I’m Drew
-- 👀   I’m interested in design and web3.0
-- 📫   How to reach me ✨ [twitter.com/fwerd_](twitter.com/fwerd_) ✨  
+- 📫   How to reach me ✨ [twitter.com/tooeazymate](twitter.com/tooeazymate) ✨  
 
 <!---
 yodreww/yodreww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
