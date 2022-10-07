@@ -1,5 +1,5 @@
 - 👋   Hi, I’m Drew
-- 📫   How to reach me [twitter.com/tooeazymate](twitter.com/tooeazymate) 
+- 📫   How to reach me [twitter.com/tooeazymate](twitter.com/drewfagin) 
 
 <!---
 yodreww/yodreww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
