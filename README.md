@@ -1,5 +1,5 @@
 - 👋   Hi, I’m Drew
-- 📫   How to reach me [twitter.com/drewfagin](twitter.com/drewfagin) 
+- 📫   How to reach me [twitter.com/drewfagin](https://twitter.com/drewfagin) 
 
 <!---
 yodreww/yodreww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
